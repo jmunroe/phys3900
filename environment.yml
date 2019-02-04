@@ -1,0 +1,6 @@
+name: phys3900
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
